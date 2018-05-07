@@ -1,0 +1,15 @@
+{
+  "name": "blooming-passwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Tapsell (https://www.jrtapsell.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "bloomfilter": "0.0.18"
+  },
+  "repository": "https://github.com/jrtapsell/blooming-passwords"
+}
