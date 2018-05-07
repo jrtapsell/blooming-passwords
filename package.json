@@ -4,7 +4,7 @@
   "description": "",
   "main": "read.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "author": "James Tapsell (https://www.jrtapsell.co.uk)",
   "license": "ISC",
